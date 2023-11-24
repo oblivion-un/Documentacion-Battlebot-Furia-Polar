@@ -7,9 +7,7 @@ Las investigaciones tempranas sólo pudieron concluir que el microorganismo haya
 
 Viendo una oportunidad de triunfo, el gobierno no tardó en incorporarlo en su tecnología bélica y así crearon el battlebot polar definitivo: un domo con una coraza helada impenetrable, un arma sanguinaria y una red neuronal furiosa a cargo.
 
-
-![Furia Polar Terminado 2](https://github.com/oblivion-un/Documentacion-Battlebot-Furia-Polar/multimedia/Furia-Polar-Terminado-2.jpg)
-
+![Furia Polar Terminado 2](https://github.com/oblivion-un/Documentacion-Battlebot-Furia-Polar/assets/151945166/9d7101d3-f88f-4f00-a9f1-9f353380c581)
 
 
 ## Integrantes
