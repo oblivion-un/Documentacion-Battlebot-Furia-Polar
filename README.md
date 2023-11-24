@@ -7,7 +7,7 @@ Las investigaciones tempranas sólo pudieron concluir que el microorganismo haya
 
 Viendo una oportunidad de triunfo, el gobierno no tardó en incorporarlo en su tecnología bélica y así crearon el battlebot polar definitivo: un domo con una coraza helada impenetrable, un arma sanguinaria y una red neuronal furiosa a cargo.
   
-![Robot Ejemplo](/multimedia/robot_ejemplo.png)
+
 
 ## Integrantes
 -  Consuelo Ulloa  -  Facultad de Arquitectura y Urbanismo 
