@@ -16,7 +16,7 @@ int pin_vel_B = 13; // pin control de velocidad motor A
 int SPEED_A = 170; //velocidades
 int SPEED_B = 255;
 
-int arma = 0;
+int arma = 0; //pin arma
 	
 /** motors setup
  * @brief Función que configura inificalmente los motores
@@ -130,7 +130,7 @@ void motor_vel(bool doble)
 void motor_arma(bool prendido)
 {
   if (prendido) {
-    digitalWrite(arma, LOW);  
+    digitalWrite(arma, LOW); // por alguna razón en LOW queda prendido pero funciona así que no me quejo
   } else {
     digitalWrite(arma, HIGH);
   }
