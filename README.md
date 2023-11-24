@@ -34,7 +34,7 @@ Así, la estrategia ofensiva consistiría en un arma giratoria elevada por dos s
 El domo es una estructura geométrica compuesta por varas de hierro conectadas en forma de triángulo. Su función es la de cubrir y proteger de forma sostenida los componentes internos de los impactos de armas o choques, mas sin aportar un peso considerable. Por otra parte, la falda es una estructura de acero en forma de arco que tiene por propósito resguardar las ruedas y dificultar el uso de mecanismos destinados a desestabilizar o volcar a un Battlebot.
 
 ### Diagrama funcional
-< Diagrama de bloques general de funcionamiento. Se sugiere un esquema de sistemas, completo.>
+
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
