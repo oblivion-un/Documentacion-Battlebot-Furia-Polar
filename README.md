@@ -1,4 +1,4 @@
-# Furia Polar  - 2023
+![Furia Polar Terminado 2](https://github.com/oblivion-un/Documentacion-Battlebot-Furia-Polar/assets/151945166/0566a05a-66bc-44ee-b4f0-c5d2b016d265)# Furia Polar  - 2023
 
 ### Historia del Battlebot
  Para asegurar la persistencia del ecosistema polar y sus habitantes, las autoridades de la Coalición de Repúblicas Árticas-Antárticas (CRAA) destinaron gran parte del presupuesto gubernamental en el fomento de las ciencias, en particular, en la investigación y creación se nuevas biotecnologías capaces de asegurar una victoria para la nación. Es en una de las múltiples expediciones financiadas por la CRAA que se descubre la especie Rhabdoviridae glacialis: un virus que se encontraba hace milenios dormido en el permafrost del ártico chileno.
@@ -7,7 +7,8 @@ Las investigaciones tempranas sólo pudieron concluir que el microorganismo haya
 
 Viendo una oportunidad de triunfo, el gobierno no tardó en incorporarlo en su tecnología bélica y así crearon el battlebot polar definitivo: un domo con una coraza helada impenetrable, un arma sanguinaria y una red neuronal furiosa a cargo.
   
-![Furia Polar Terminado 2](/multimedia/Furia Polar Terminado 2.jpg)
+![Uploading Furia Polar Terminado 2.jpg…](/multimedia/Furia_Polar_Terminado_2.jpg)
+
 
 ## Integrantes
 -  Consuelo Ulloa  -  Facultad de Arquitectura y Urbanismo 
