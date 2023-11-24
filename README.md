@@ -6,9 +6,9 @@
 Las investigaciones tempranas sólo pudieron concluir que el microorganismo hayado era un ancestro lejano del virus que causa la enfermedad de la rabia. Sin embargo, los análisis de laboratorio posteriores revelaron algo vardaderamente excepcional: el virus era capaz de comunicarse con nanorobots, alterando la programación y la organización de estos para su propia supervivencia. Al entrar en contacto con los robots, R.glacialis podía comandar la formación de tejidos resistentes u organizar redes neuronales complejas, entre otras facultades.
 
 Viendo una oportunidad de triunfo, el gobierno no tardó en incorporarlo en su tecnología bélica y así crearon el battlebot polar definitivo: un domo con una coraza helada impenetrable, un arma sanguinaria y una red neuronal furiosa a cargo.
-  
-![Furia Polar Terminado 2](/multimedia/Furia_Polar_Terminado_2.jpg)
 
+
+![Furia Polar Terminado 2](https://github.com/oblivion-un/Documentacion-Battlebot-Furia-Polar/multimedia/Furia-Polar-Terminado-2.jpg)
 
 
 
