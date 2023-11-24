@@ -2,6 +2,7 @@ const char MAIN_page[] PROGMEM = R"=====(
 
 <!DOCTYPE html>
 <html>
+	<!-- Esta página fue utilizada para probar el funcionamiento del bot, se recomienda encarecidamente utilizar la aplicación -->
 	<head>
 		<meta name="viewport" content="width=device-width, user-scalable=no" />
 		<meta charset="UTF-8">
@@ -30,6 +31,7 @@ const char MAIN_page[] PROGMEM = R"=====(
 	<body>
 		<h1>Motor Velocity Control</h1>
 
+		<!-- Aquí se organizan todos los botones con el id necesario para que se reconozca desde el arduino que funcionalidad se desea -->
 		<div class="button">
 			<br>
 			<button type="button" class='button button1' onClick="sendRequest('http://192.168.4.1/Button?val=1', 1)" >ADELANTE</button>
