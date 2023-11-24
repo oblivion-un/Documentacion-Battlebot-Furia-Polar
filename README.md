@@ -1,7 +1,5 @@
 # < Furia Polar > - <2023>
 
-< Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
-
 ### Historia del Battlebot
 < Para asegurar la persistencia del ecosistema polar y sus habitantes, las autoridades de la Coalición de Repúblicas Árticas-Antárticas (CRAA) destinaron gran parte del presupuesto gubernamental en el fomento de las ciencias, en particular, en la investigación y creación se nuevas biotecnologías capaces de asegurar una victoria para la nación. Es en una de las múltiples expediciones financiadas por la CRAA que se descubre la especie Rhabdoviridae glacialis: un virus que se encontraba hace milenios dormido en el permafrost del ártico chileno.
 
