@@ -1,7 +1,7 @@
 # Furia Polar  - 2023
 
 ### Historia del Battlebot
- Para asegurar la persistencia del ecosistema polar y sus habitantes, las autoridades de la Coalición de Repúblicas Árticas-Antárticas (CRAA) destinaron gran parte del presupuesto gubernamental en el fomento de las ciencias, en particular, en la investigación y creación se nuevas biotecnologías capaces de asegurar una victoria para la nación. Es en una de las múltiples expediciones financiadas por la CRAA que se descubre la especie Rhabdoviridae glacialis: un virus que se encontraba hace milenios dormido en el permafrost del ártico chileno.
+ Para asegurar la persistencia del ecosistema polar y sus habitantes, las autoridades de la Coalición de Repúblicas Árticas-Antárticas (CRAA) destinaron gran parte del presupuesto gubernamental en el fomento de las ciencias, en particular, en la investigación y creación se nuevas biotecnologías capaces de asegurar una victoria para la nación. Es en una de las múltiples expediciones financiadas por la CRAA que se descubre la especie _Rhabdoviridae glacialis_ : un virus que se encontraba hace milenios dormido en el permafrost del ártico chileno.
 
 Las investigaciones tempranas sólo pudieron concluir que el microorganismo hayado era un ancestro lejano del virus que causa la enfermedad de la rabia. Sin embargo, los análisis de laboratorio posteriores revelaron algo vardaderamente excepcional: el virus era capaz de comunicarse con nanorobots, alterando la programación y la organización de estos para su propia supervivencia. Al entrar en contacto con los robots, R.glacialis podía comandar la formación de tejidos resistentes u organizar redes neuronales complejas, entre otras facultades.
 
